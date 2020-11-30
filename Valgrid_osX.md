@@ -16,6 +16,7 @@
     >agreement.
     >Please, press ENTER to continue
  Нажать ENTER
+ 
  Пролистать лицензию до конца, стрелками вниз
 
     >Do you accept the license terms? [yes|no]
@@ -31,6 +32,7 @@
     >Do you wish the installer to initialize Miniconda3
     by running conda init? [yes|no]
 Ввести "no"
+
 Запуск переменных окружения conda
     
     >source path-to-miniconda/etc/profile.d/conda.sh
